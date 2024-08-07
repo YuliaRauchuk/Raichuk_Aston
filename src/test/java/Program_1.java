@@ -2,10 +2,10 @@
 //- сравнивает эти два числа и возвращает результат сравнения путем вывода в консоль одного из вариантов:
 // "a > b", "a < b" или "a = b";
 //- совершает с этими числами операции сложения, вычитания, деления и умножения и результат выводит в консоль.
-public class Program_ONE {
+public class Program_1 {
     public static void main(String[] args) {
     int a = 10;
-    int b = 3;
+    int b = 7;
 
     boolean c1 = (a>b);
     boolean c2 = (a<b);
@@ -24,7 +24,5 @@ public class Program_ONE {
         System.out.println(c5);
         System.out.println(c6);
         System.out.println(c7);
-    }
-    }
-}
-}
+    }}
+}}
