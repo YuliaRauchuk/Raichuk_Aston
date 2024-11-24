@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae8b1a1e-c0e0-4d40-bb71-e8eeea5376ee" name="Changes" comment="" />
+    <list default="true" id="ae8b1a1e-c0e0-4d40-bb71-e8eeea5376ee" name="Changes" comment="com 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Program_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Program_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Program_ONE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Program_THREE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Program_TWO.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2kHq0tA48kdvLpDCgNKJvmAjGod" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,26 +56,39 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Professional/IdeaProjects/Practical_task",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program_TWO">
-    <configuration name="Program_ONE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program_ONE" />
+  <component name="RunManager" selected="Application.Task_1">
+    <configuration name="Program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_1" />
       <module name="Raichuk_Aston" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program_THREE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program_THREE" />
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1" />
       <module name="Raichuk_Aston" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program_TWO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program_TWO" />
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_2" />
+      <module name="Raichuk_Aston" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_3" />
       <module name="Raichuk_Aston" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,9 +96,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program_TWO" />
-        <item itemvalue="Application.Program_ONE" />
-        <item itemvalue="Application.Program_THREE" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Task_3" />
+        <item itemvalue="Application.Program_1" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +112,46 @@
       <option name="presentableId" value="Default" />
       <updated>1722950634660</updated>
     </task>
+    <task id="LOCAL-00001" summary="com 1">
+      <created>1722955882802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722955882802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="com 1">
+      <created>1722956204920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722956204920</updated>
+    </task>
+    <task id="LOCAL-00003" summary="com 1">
+      <created>1723016759556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723016759556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="com 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="com 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Raichuk_Aston$Program_1.ic" NAME="Program_1 Coverage Results" MODIFIED="1732448411215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
